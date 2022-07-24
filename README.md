@@ -1,4 +1,4 @@
-Project link <a href="https://dainty-crisp-e78adf.netlify.app">HERE !! </a>
+Project link <a href="https://categories-project.netlify.app">HERE !! </a>
 
 # categories-project
 ![image](https://user-images.githubusercontent.com/82785683/180649766-53cc5022-da90-4f2a-bc40-0a50f386fcb5.png)
